@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://react-router-sitemap-generator.com/suspense-list</loc>
+        <loc>https://pa11y-ci-demo.netlify.app//suspense-list</loc>
         <lastmod>2021-09-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://react-router-sitemap-generator.com/request</loc>
+        <loc>https://pa11y-ci-demo.netlify.app//request</loc>
         <lastmod>2021-09-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://react-router-sitemap-generator.com/heavy</loc>
+        <loc>https://pa11y-ci-demo.netlify.app//heavy</loc>
         <lastmod>2021-09-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://react-router-sitemap-generator.com/</loc>
+        <loc>https://pa11y-ci-demo.netlify.app//</loc>
         <lastmod>2021-09-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

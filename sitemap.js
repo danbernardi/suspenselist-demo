@@ -4,7 +4,7 @@ import Generator from 'react-router-sitemap-generator';
 import Router from './src/Routes';
 
 const generator = new Generator(
-  'https://react-router-sitemap-generator.com',
+  'https://pa11y-ci-demo.netlify.app/',
   Router(),
   {
     lastmod: new Date().toISOString().slice(0, 10),
