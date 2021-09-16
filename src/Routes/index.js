@@ -1,8 +1,6 @@
 import React, { Suspense, lazy } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { Link } from 'react-router-dom';
-// import Home from './Home';
-// import Heavy from './Heavy';
 
 const Home = lazy(() => import('./Home'));
 const Heavy = lazy(() => import('./Heavy'));
