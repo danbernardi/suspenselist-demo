@@ -7,7 +7,7 @@ const Heavy = () => {
   return ( 
     <>
       <h1>Heavy</h1>
-      <img src="./assets/heavy.jpeg" alt="" />
+      <img src="./assets/heavy.jpeg" />
 
       <SVGSample />
       <div className="box__group">

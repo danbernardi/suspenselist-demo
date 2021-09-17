@@ -16,6 +16,8 @@ const Routes = () => {
         </Suspense>
       ) }
 
+      <button>This is a button</button>
+
       {/* { showSuspended && (
         <LazyComponent />
       ) } */}
